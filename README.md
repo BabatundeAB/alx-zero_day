@@ -1,1 +1,2 @@
-README FILE HAS BEEN UPDATED
+README.md
+README.md has been updated
